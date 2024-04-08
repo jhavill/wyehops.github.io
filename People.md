@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "About"
-permalink: /about
+title: "People"
+permalink: /people
 output: 
   html_document:
-    template: about.html
+    template: People.html
 ---
