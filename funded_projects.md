@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "About"
-permalink: /about
+title: "Funded Projects"
+permalink: /funded_projects
 output: 
   html_document:
-    template: about.html
+    template: funded_projects.html
 ---
