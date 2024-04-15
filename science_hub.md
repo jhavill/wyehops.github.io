@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Resources"
-permalink: /resources
+title: "Hop Science Hub"
+permalink: /science_hub
 output: 
   html_document:
-    template: resources.html
+    template: science_hub.html
 ---
