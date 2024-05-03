@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "About"
-permalink: /about
+title: "Breeding Objectives"
+permalink: /breeding
 output: 
   html_document:
-    template: about.html
+    template: breeding.html
 ---
